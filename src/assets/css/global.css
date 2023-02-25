@@ -21,3 +21,8 @@ body,
 .el-pagination {
 	margin-top: 15px;
 }
+
+.treeTable {
+	margin-top: 15px;
+	font-size: 12px;
+}
